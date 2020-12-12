@@ -8,4 +8,4 @@ This will generate the output as , a.out
 
 	./a.out 
 
-Will print the result.
+Will print the output.
