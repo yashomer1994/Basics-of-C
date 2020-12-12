@@ -8,5 +8,5 @@ This will generate output as , a.out
 
 	./a.out
 
-Will generate the output
+Will print the output
 
